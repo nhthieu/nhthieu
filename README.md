@@ -6,7 +6,7 @@
 
 - I'm a 3rd year student at Ho Chi Minh University of Science (HCMUS)
 - I major in Technology & Information
-- I'm currently acquiring knowledge within the field, mainly Fullstack related technologies and algorithms
+- I'm currently acquiring knowledge within the field, mainly but not limited to Fullstack related technologies and algorithms
 - I'm looking forward to any open collaborations
 
 ## Contact
