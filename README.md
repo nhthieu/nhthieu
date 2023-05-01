@@ -6,7 +6,7 @@
 
 - I'm a Junior at Ho Chi Minh University of Science (HCMUS)
 - I major in Information Technology
-- I'm currently acquiring knowledge within the field, mainly but not limited to fullstack technologies and algorithms
+- I'm currently acquiring knowledge within the field, mainly but not limited to fullstack technologies
 - I'm always open to any collaborations with others so feel free to reach out if you have any interesting projects or ideas ☺️
 
 ## Contact
