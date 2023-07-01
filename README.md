@@ -8,7 +8,7 @@
 - 💻 I major in Information Technology
 - 🔭 I'm currently acquiring knowledge within the field, mainly but not limited to fullstack technologies
 - ✉️ Contact me at <a href="mailto:nguyenhotrunghieu0106@gmail.com">nguyenhotrunghieu0106@gmail.com</a>
-- 🧑‍🚀 Visit my [portfolio site](https://hieunguyen.vercel.app/)
+- 🧑‍🚀 Visit my [website](https://hieunguyen.vercel.app/)
 <!-- - I'm always open to any collaborations with others so feel free to reach out if you have any interesting projects or ideas ☺️ -->
 
 ### Connect with me:
