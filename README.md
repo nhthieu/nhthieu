@@ -9,15 +9,12 @@
 - 🔭 I'm currently acquiring knowledge within the field, mainly but not limited to fullstack technologies
 - ✉️ Contact me at <a href="mailto:nguyenhotrunghieu0106@gmail.com">nguyenhotrunghieu0106@gmail.com</a>
 - 🧑‍🚀 Visit my [website](https://hieunguyen.vercel.app/)
-<!-- - I'm always open to any collaborations with others so feel free to reach out if you have any interesting projects or ideas ☺️ -->
 
-### Connect with me:
+ ### Languages:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nhthieu16/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</div>
+ - Vietnamese: native
+ - English: full professional level
+ - French: working on it
 
 ### Technologies:
 
@@ -120,3 +117,10 @@
   &nbsp;
  </div>
 
+### Connect with me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nhthieu16/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</div>
