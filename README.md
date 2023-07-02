@@ -6,7 +6,6 @@
 
 - 🎓 I'm a Junior at Ho Chi Minh University of Science (HCMUS)
 - 💻 I major in Information Technology
-- 🔭 I'm currently acquiring knowledge within the field, mainly but not limited to fullstack technologies
 - ✉️ Contact me at <a href="mailto:nguyenhotrunghieu0106@gmail.com">nguyenhotrunghieu0106@gmail.com</a>
 - 🧑‍🚀 Visit my [website](https://hieunguyen.vercel.app/)
 
