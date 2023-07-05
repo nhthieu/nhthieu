@@ -2,18 +2,19 @@
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="100">
 </div>
 
-# Hi there, I'm Hieu 👋
+# Hi there, I'm Hieu Nguyen 👋
 
-- 🎓 I'm a Junior at Ho Chi Minh University of Science (HCMUS)
-- 💻 I major in Information Technology
-- ✉️ Contact me at <a href="mailto:nguyenhotrunghieu0106@gmail.com">nguyenhotrunghieu0106@gmail.com</a>
-- 🧑‍🚀 Visit my [website](https://hieunguyen.vercel.app/)
+I'm currently a Junior at Ho Chi Minh University of Science (HCMUS) based in Ho Chi Minh City, Vietnam.
+
+I mostly write Typescript and work on the web but I also enjoy writing Rust *(still learning)* as a hobby in my spare time.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/nhthieu16/) or contact me at [nguyenhotrunghieu0106@gmail.com](mailto:nguyenhotrunghieu0106@gmail.com)
 
  ### Languages:
 
- - Vietnamese: native
- - English: full professional level
- - French: working on it
+ - Vietnamese: Native
+ - English: Full professional level
+ - French: Working on it
 
 ### Technologies:
 
@@ -115,11 +116,3 @@
   </a>
   &nbsp;
  </div>
-
-### Connect with me:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nhthieu16/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</div>
