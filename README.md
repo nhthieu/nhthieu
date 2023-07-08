@@ -4,8 +4,9 @@
 
 # Hi there, I'm Hieu Nguyen 👋
 
-- 🎓 I'm currently a Junior at Ho Chi Minh University of Science (HCMUS) based in Ho Chi Minh City, Vietnam.
-- 💻 I mostly work on the web but I also enjoy doing low-level programming as a hobby in my spare time.
+- I'm currently a Junior at Ho Chi Minh University of Science (HCMUS) based in Ho Chi Minh City, Vietnam.
+- I mostly work on the web but I also enjoy doing low-level programming as a hobby in my spare time.
+- Recently interested in Rust.
 
 I'm most responsive via [email](mailto:nguyenhotrunghieu0106@gmail.com).
   
