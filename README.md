@@ -5,6 +5,7 @@
 # Hi, I'm Hieu Nguyen 👋
 
 - I'm a Junior at Ho Chi Minh University of Science (HCMUS) based in Ho Chi Minh City, Vietnam.
+- I'm currently an intern at [DevSamurai Vietnam](https://devsamurai.vn/).
 - I mostly work on the web but I also enjoy doing low-level programming as a hobby in my spare time.
 - I'm most responsive via [email](mailto:nguyenhotrunghieu0106@gmail.com).
   
